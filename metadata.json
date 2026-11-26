@@ -1,0 +1,6 @@
+{
+  "name": "DocMind AI",
+  "description": "AI-powered document question-answering workspace using Retrieval-Augmented Generation (RAG) with Gemini embeddings, FAISS vector search, and grounded citations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
